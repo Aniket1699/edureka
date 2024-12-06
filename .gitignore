@@ -1,0 +1,9 @@
+# adding ingore files which are not important to track
+text.html
+file4.txt
+*.yml
+*.py
+*.php
+*.xyz
+
+
